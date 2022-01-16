@@ -15,8 +15,8 @@ Given a character string of ‘XML’, an ‘xml2’ or ‘XML’ package docume
 What’s Inside The Tin
 The following functions are implemented:
 
-xml_to_json: Convert XML to JSON
-json_to_xml: Convert JSON to XML
+        xml_to_json: Convert XML to JSON
+        json_to_xml: Convert JSON to XML
 
 Installation
 ==============
